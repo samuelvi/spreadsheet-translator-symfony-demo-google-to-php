@@ -11,7 +11,7 @@ Lightweight Symfony Demo Application for the Spreadsheet Translator functionalli
 Installation
 ------------
 
-composer create-project atico/spreadsheet-translator-symfony-demo-google-to-php
+composer create-project atico/translator-symfony-demo-google-to-yml
 
 This will install the demo application into your computer
 
