@@ -4,13 +4,14 @@ Spreadsheet Translator Symfony Demo Application - Use Case
 Introduction
 ------------
 
-Lightweight Symfony Demo Application for the Spreadsheet Translator functionallity considering a google shared viewable spreadsheet source file and yml format for translated file.
+Lightweight Symfony Demo Application for the Spreadsheet Translator functionallity.
+ The demo brings a command that takes a Google Drive spreadhseet file and creates a translation file per locale in Php format.
 
 
 Installation
 ------------
 
-composer create-project atico/spreadsheet-translator-symfony-demo-local-google-provider-yml-exporter
+composer create-project atico/spreadsheet-translator-symfony-demo-google-to-php
 
 This will install the demo application into your computer
 
