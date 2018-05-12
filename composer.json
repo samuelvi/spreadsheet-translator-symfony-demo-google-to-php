@@ -1,5 +1,5 @@
 {
-    "name": "atico/spreadsheet-translator-symfony-demo-local-file-provider-php-exporter",
+    "name": "atico/spreadsheet-translator-symfony-demo-google-to-php",
     "license": "MIT",
     "type": "project",
     "description": "Spreadsheet Translator Symfony Demo Application with Local File Provider and Php Exporter",
